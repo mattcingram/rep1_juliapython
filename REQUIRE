@@ -1,6 +1,6 @@
 CSV
-DelimitedFiles
 HTTP
+MultivariateStats
 PyPlot
 PyCall
 Plots
